@@ -1,0 +1,35 @@
+# Directories
+dist
+node_modules
+
+# env file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ESlint
+.eslintcache
+
+# Coverage directory
+coverage
+
+# Other directories
+scripts
+
+# Editor directories
+.idea
+*.launch
+.settings/
+*.sublime-workspace
+
+# Mac
+.DS_Store
+
+# Sample JSON
+sample.json
+sample-*.json
